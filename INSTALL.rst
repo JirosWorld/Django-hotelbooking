@@ -44,7 +44,7 @@ development machine.
 
    .. code-block:: bash
 
-       $ git clone git@bitbucket.org:maykinmedia/hotelbooking.git
+       $ git clone git@github.com:JirosWorld/Django-hotelbooking.git
        $ cd hotelbooking
 
 3. Install all required (backend) libraries.
@@ -113,6 +113,11 @@ When updating an existing installation:
 
        $ git pull
        $ pip install -r requirements/dev.txt
+
+for mac:
+       $ brew install uwsgi
+       $ brew services restart uwsgi
+
        $ npm install
        $ npm run build
 

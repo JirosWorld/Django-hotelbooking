@@ -38,3 +38,4 @@ local.py
 # Static files
 src/hotelbooking/static/bundles/
 src/hotelbooking/fonts/
+.DS_Store
