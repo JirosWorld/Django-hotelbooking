@@ -1,0 +1,10 @@
+SECRET_KEY="django-insecure-+c#ktd%^&!!$z&-8it9t-ei@9n^*-ic%6de0crvq^(5r3v99cl"
+DB_NAME="hotelbooking"
+DB_USER="hotelbooking"
+#
+# For peer authentication via unix domain socket
+# these should be kept empty.
+#
+DB_PASSWORD=""
+DB_HOST=""
+DB_PORT=""
