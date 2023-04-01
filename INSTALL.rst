@@ -58,6 +58,10 @@ development machine.
        $ source env/bin/activate
        $ pip install -r requirements/dev.txt
 
+for mac:
+       $ brew install uwsgi
+       $ brew services restart uwsgi
+
 4. Install all required (frontend) libraries and build static files.
 
    .. code-block:: bash
@@ -118,7 +122,7 @@ for mac:
        $ brew install uwsgi
        $ brew services restart uwsgi
 
-       $ npm install
+       $ npm ci --legacy-peer-deps
        $ npm run build
 
 3. Update the statics and database:

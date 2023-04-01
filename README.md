@@ -5,7 +5,7 @@
 :Keywords: `Django`
 :PythonVersion: 3.10
 
-|build-status| |requirements|
+Go [here for installation instructions](INSTALL.rst)
 
 `Book hotel rooms in Django - search by city.`
 
@@ -42,7 +42,7 @@ This project mmakes use of a common situation: integrating third parties in a pi
 
 # Documentation
 
-See `INSTALL.rst` for installation instructions, available settings and
+See [INSTALL.rst](INSTALL.rst) for installation instructions, available settings and
 commands.
 
 # References
@@ -51,11 +51,11 @@ commands.
 -   `Code <https://bitbucket.org/maykinmedia/hotelbooking>`\_
 
 .. |build-status| image:: http://jenkins.maykin.nl/buildStatus/icon?job=bitbucket/hotelbooking/master
-:alt: Build status
-:target: http://jenkins.maykin.nl/job/hotelbooking
+Build status
+http://jenkins.maykin.nl/job/hotelbooking
 
 .. |requirements| image:: https://requires.io/bitbucket/maykinmedia/hotelbooking/requirements.svg?branch=master
-:target: https://requires.io/bitbucket/maykinmedia/hotelbooking/requirements/?branch=master
-:alt: Requirements status
+https://requires.io/bitbucket/maykinmedia/hotelbooking/requirements/?branch=master
+Requirements status
 
 .. \_Maykin Media B.V.: https://www.maykinmedia.nl
